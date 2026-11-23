@@ -1,0 +1,22 @@
+# Python
+backend/.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Env files (API keys)
+.env
+*.env.local
+
+# OS
+.DS_Store
+
+# Node / frontend
+node_modules/
+frontend/dist/
+.vite/
+
+# Node / frontend
+node_modules/
+frontend/dist/
+.vite/
